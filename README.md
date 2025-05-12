@@ -69,7 +69,7 @@ Rolling averages and economic trend overlays
 **🚀 How to Run**
 
 Clone the repository:
-git clone https://github.com/Rajumenan/market-trend-analysis.git
+git clone https://github.com/Barath20-05/Detecting-Market-Trends
 
 Install required libraries:
 pip install -r requirements.txt
